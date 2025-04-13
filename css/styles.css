@@ -845,7 +845,8 @@ button
     transform: scale(1);
     transition: all 0.5s ease;
 }
-#line:hover{
+#line:hover
+{
     text-decoration: underline;
 }
 .pp-header
@@ -966,7 +967,7 @@ button
 }
 .contact-info-item .social-links a:hover
 {
-    color: var(--white);
+    color: black;
     background-color: var(--main-color);
 }
 
