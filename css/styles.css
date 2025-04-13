@@ -522,7 +522,7 @@ button
     position: absolute;
     right: 0;
     bottom: 0;
-    height: 50%;
+    height: 10%;
     width: 0;
     background-color: var(--wh);
     z-index: -1;
@@ -530,7 +530,7 @@ button
 }
 .header .nav-inner ul li a:hover::before
 {
-    width: 10%;
+    width: 100%;
 }
 .header .nav-inner ul li a:hover
 {
