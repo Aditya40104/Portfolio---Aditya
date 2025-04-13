@@ -845,6 +845,9 @@ button
     transform: scale(1);
     transition: all 0.5s ease;
 }
+#line:hover{
+    text-decoration: underline;
+}
 .pp-header
 {
     position: relative;
@@ -1054,7 +1057,7 @@ button
 }
 .about-me
 {
-    color: #18293c;
+    color: white;
     font-weight: 600;
     
 }
